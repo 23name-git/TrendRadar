@@ -99,6 +99,9 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
+    - id: "douban"
+      name: "豆瓣"
+      expected_domain: "douban.com"
 
 
 
